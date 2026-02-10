@@ -1,5 +1,7 @@
 # Databases for MongoDB terraform module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-icd-mongodb](https://github.com/terraform-ibm-modules/terraform-ibm-icd-mongodb) for configuring IBM Cloud Databases for MongoDB.
+
 This terraform module will provision an instance of MongoDB into an account. If the key protect values are provided then it will provision the instance using
 the provided encryption key. 
 
